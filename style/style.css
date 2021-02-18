@@ -39,14 +39,15 @@ main{
     border-radius: 5px;
     padding-right: 0;
 }
-@media only screen and (max-width:1000px){
+@media only screen and (max-width:820px){
     body{
         background-color:white;
-        width:100vw
+        
     }
     main{
         background-color:white;
         background-image: none;
+        width:720
     }
     header{
         position:fixed;

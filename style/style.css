@@ -47,7 +47,7 @@ main{
     main{
         background-color:white;
         background-image: none;
-        width:720
+        width:100vw;
     }
     header{
         position:fixed;

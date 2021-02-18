@@ -49,6 +49,7 @@ main{
         background-color:white;
         background-image: none;
         width:80vw;
+        font-size: 12pt;
     }
     header{
         position:-webkit-sticky;

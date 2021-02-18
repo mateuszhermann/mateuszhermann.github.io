@@ -47,10 +47,13 @@ main{
     main{
         background-color:white;
         background-image: none;
-        width:100vw;
+        width:90vw;
     }
     header{
         position:fixed;
         top:0;
+    }
+    li{
+        padding:5px;
     }
 }

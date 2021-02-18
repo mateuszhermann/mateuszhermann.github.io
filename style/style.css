@@ -51,11 +51,7 @@ main{
         width:80vw;
         font-size: 12pt;
     }
-    header{
-        position:-webkit-sticky;
-        top:0;
-        left:0;
-    }
+
     li{
         padding:5px;
     }

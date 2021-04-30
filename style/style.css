@@ -39,7 +39,7 @@ main{
     border-radius: 5px;
     padding-right: 0;
 }
-@media only screen and (max-width:820px){
+@media only screen and (max-width:820px){/*do szerokości ekranu 800 px odpalany jest ten css a i ma pierwszeństwo*/
     body{
         background-color:#ffffff;
         background:none ;

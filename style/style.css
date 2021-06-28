@@ -1,5 +1,6 @@
 body{
     font-family: 'Oswald', sans-serif;
+    background-color:#222222;
     font-size: 16pt;
     background-image: url("../img/background.jpg");
     background-attachment: fixed;
